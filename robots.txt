@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://irawoohu.github.io/sitemap_index.irawoohu
